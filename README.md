@@ -13,7 +13,7 @@
 
 <h3 align="left">Deploy:</h3>
 <p align="left">
-  <a href="https://agustinrodriguez23.github.io/proyect-barber/" target="_blank" >
+  <a href="https://repo-proyecto-ten.vercel.app/" target="_blank" >
     <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="demo"/>
   </a>
 </p>
